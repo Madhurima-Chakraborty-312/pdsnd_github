@@ -226,6 +226,7 @@ def display_data(df):
             break
 
 def main():
+    print("Explore US Bikeshare Data")
     while True:
         print('Cities : chicago, new york, washington')
         print('Months : january, february, march, april, may, june, all')
